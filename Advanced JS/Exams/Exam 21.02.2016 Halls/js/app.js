@@ -32,7 +32,6 @@ require(['halls','jquery','jsgrid'], function (halls) {
            if($('#halls option:first-child').val() === 'Choose Hall') {
                $('#halls option:first-child').remove();
            }
-
            var _this = this;
            if (this.value !== 'Choose Hall') {
                var lectures, parties, heading, grid;
