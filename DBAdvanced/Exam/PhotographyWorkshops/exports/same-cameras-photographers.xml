@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<photographers>
+  <photographer name="Stephnie Arciniega" primary-camera="Sony A65">
+    <lenses>
+      <lens>Tamron 28mm f1.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Dante Ketter" primary-camera="Nikon D2X">
+    <lenses>
+      <lens>Nikon 28mm f4.0</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Krystin Lindstedt" primary-camera="Nikon D800">
+    <lenses>
+      <lens>Nikon 24mm f4.0</lens>
+      <lens>Sigma 16mm f2.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Shiloh Heckert" primary-camera="Canon 760D">
+    <lenses>
+      <lens>Canon 125mm f1.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Fidel Sato" primary-camera="Pentax K-1">
+    <lenses>
+      <lens>Pentax 135mm f1.4</lens>
+      <lens>Pentax 15mm f2.8</lens>
+      <lens>Pentax 135mm f2.8</lens>
+      <lens>Tokina 20mm f2.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Talitha Jong" primary-camera="Nikon D200">
+    <lenses>
+      <lens>Nikon 40mm f2.8</lens>
+      <lens>Sigma 30mm f2.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Aurora Broadhurst" primary-camera="Sony A290">
+    <lenses>
+      <lens>Tamron 28mm f2.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Dinah Mckenney" primary-camera="Nikon D40">
+    <lenses>
+      <lens>Nikon 12mm f4.0</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Romona Griffin" primary-camera="Canon 60D">
+    <lenses>
+      <lens>Canon 22mm f3.5</lens>
+      <lens>Sigma 15mm f1.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Cristopher Brinkerhoff" primary-camera="Canon 550D">
+    <lenses>
+      <lens>Canon 600mm f1.4</lens>
+      <lens>Sigma 40mm f4.0</lens>
+      <lens>Sigma 85mm f1.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Kirstin Whidbee" primary-camera="Canon 600D">
+    <lenses>
+      <lens>Canon 8mm f2.0</lens>
+      <lens>Canon 300mm f1.4</lens>
+      <lens>Sigma 18mm f4.0</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Shon Bjerke" primary-camera="Fuji XE2s">
+    <lenses>
+      <lens>Tamron 24mm f1.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Shannon Clendenin" primary-camera="Fuji XF1">
+    <lenses>
+      <lens>Sigma 15mm f1.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Federico Arceo" primary-camera="Canon 60D">
+    <lenses>
+      <lens>Sigma 50mm f4.0</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Gena Gering" primary-camera="Sony A230">
+    <lenses>
+      <lens>Tamron 28mm f2.8</lens>
+      <lens>Tamron 30mm f2.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Romona Kumm" primary-camera="Nikon D300">
+    <lenses>
+      <lens>Nikon 25mm f4.0</lens>
+      <lens>Nikon 30mm f2.0</lens>
+    </lenses>
+  </photographer>
+</photographers>
