@@ -16,7 +16,6 @@
 
         public static void Main()
         {
-            System.Console.WriteLine("Check in");
             IUnitOfWork unit = new UnitOfWork(new PhotographyWorkshopsContext());
             ExportOrderedPhotographers(unit);
             ExportLandscapePhotographers(unit);
